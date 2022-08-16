@@ -1,0 +1,34 @@
+const express = require('express')
+const router = express.Router();
+const connection = require('../config/db');
+
+
+
+
+//LOGIN EMAIL PASSWORD
+//LOGIN FACEBOOK
+//LOGIN GOOGLE
+//LOGIN APPLE
+//LOGIN NUMBER
+//VERIFY EMAIL
+//OTP VERIFY
+
+
+//REGISTER
+//RENEW TOKEN
+//LOGOUT
+//UPDATE PASSWORD
+//RESET PASSWORD
+//UPDATE PROFILE
+//RESET PASSWORD
+
+//REACTIVATE/DEACTIVATE ACCOUNT/ DEACTIVATE ACCOUNT
+//SEND SMS TWILIO
+//FCM TOKEN
+//PROFILE
+//DESTROY ACCOUNT
+
+
+
+
+module.exports = router;
